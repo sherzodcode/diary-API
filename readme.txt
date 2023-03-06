@@ -3,7 +3,9 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 //////////
-06.03.2023
+date:   06.03.2023
+
+
 
 Today i worked on our project Faveo and tried to fulfill Prooduct section.
 
