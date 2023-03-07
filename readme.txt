@@ -3,8 +3,8 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 //////////
-date:   06.03.2023
 
+date:   06.03.2023
 
 
 Today i worked on our project Faveo and tried to fulfill Prooduct section.
@@ -18,5 +18,20 @@ In Sha Allah today i'm gonna start make documentation
 And i understansd one more thing, i need to learn react js and Deploying to server for this project , if i want to make it real (I WANT IT!!!)
 
 
+///////////
+
+
+
+
 
 ///////////
+
+
+date: 07.03.2023
+
+
+I get to do an Api for this , start after i go to the DATA
+
+
+
+/////////////
