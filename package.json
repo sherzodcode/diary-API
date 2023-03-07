@@ -1,0 +1,26 @@
+{
+  "name": "diary",
+  "version": "1.0.0",
+  "description": "First day of using this diary.\r I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherzodcode/diary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherzodcode/diary/issues"
+  },
+  "homepage": "https://github.com/sherzodcode/diary#readme",
+  "dependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
