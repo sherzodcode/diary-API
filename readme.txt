@@ -32,6 +32,10 @@ date: 07.03.2023
 
 I get to do an Api for this , start after i go to the DATA
 
-
+It's 22'36 right nowTtoday i couldn't go to the DATA station for some reasons, but i started my Diary project API...
+But there's some problems with Prisma. The problem is so funny, there's no such a folder in my code but error says it's in there
+I have to show my Problem to SENSEI Jalol
+And i have to add validator to my project (JOI)
+In Sha Allah tomorrow , i'll start React courses , cuz i need make CLIENT section, to make it usefull
 
 /////////////
