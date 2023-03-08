@@ -8,7 +8,7 @@ Today I once again could'nt go to the station
 I have to start my React course TODAYYY
 I had problems in my project that i can't solve, I need to fix them soon
 And i started React courses now i have to learn more and make client section for DIARY project
-I'm thinking about should i add service section today, but theproblem is prisma ain't workin, and i can't add nothin to database, use clear SQL quaries..... no 
+I'm thinking about should i add service section today, but the problem is prisma ain't workin, and i can't add nothin to database, use clear SQL quaries you may say..... no 
 
 ///////////
 
