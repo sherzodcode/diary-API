@@ -6,7 +6,8 @@ date: 08.03.2023
 
 Today I once again could'nt go to the station
 I have to start my React course TODAYYY
-
+I had problems in my project that i can't solve, I need to fix them soon
+And i started React courses now i have to learn more and make client section for DIARY project
 
 ///////////
 
