@@ -8,6 +8,7 @@ date: 09.03.2023
 It's 12:28 i'm in Data finally, We solved our Yesterday's Prisma problem. (ALhamdulillah) . Sensei Jalol installed Yarn instead of npx
 He thinks because of old npm project didn't run. Whatever Prject is working. One more thing , i have to remember Yarn commands
 Now i nedd to add service section and Fix add-allias
+today i can't but Tomorrow I should end Back-end of Diary Project and faveo
 
 
 ///////////
