@@ -1,6 +1,17 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+
+///////////
+date: 09.03.2023
+
+It's 12:28 i'm in Data finally, We solved our Yesterday's Prisma problem. (ALhamdulillah) . Sensei Jalol installed Yarn instead of npx
+He thinks because of old npm project didn't run. Whatever Prject is working. 
+Now i nedd to add service section
+
+///////////
+
+
 ///////////
 date: 08.03.2023
 

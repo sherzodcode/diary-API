@@ -11,27 +11,24 @@ datasource db {
 }
 
 
+
 model User {
   id Int @id @default(autoincrement())
-
   username String @unique
+
   email String @unique
-  password String
-  
+  password Int
 
   pages Page[]
 }
 
+
 model Page {
-  id          Int @id @default(autoincrement())
-  date        String
-  title       String
-  info        String
+  id Int @id @default(autoincrement())
+  date String
+  title String
+  info String
 
   author User @relation(fields: [author_id], references: [id])
   author_id Int
 }
-
-
-
-
