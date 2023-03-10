@@ -1,7 +1,8 @@
 import { User } from "@prisma/client";
 
 export interface PageDto{
-    date: number,
+    date: string,
     title: string,
+    info: string,
     author_id: number
 }
