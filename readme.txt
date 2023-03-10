@@ -1,6 +1,10 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+///////////
+date: 10.03.2023
+
+Time is 15:10. I'm in station. Today i need to finish service section of Diary
 
 ///////////
 date: 09.03.2023
