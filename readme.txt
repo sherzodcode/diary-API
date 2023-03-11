@@ -2,6 +2,16 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ///////////
+date: 11.03.20023
+
+Time is 23:46 today i can't code a lot but i changed a lot things in project, like whole structure i can say
+Tomorrow I should end back-end of project and start doing client section 
+And Turn Javascript project to Typescript In Sha Allah
+
+///////////
+
+
+///////////
 date: 10.03.2023
 
 Time is 15:10. I'm in station. Today i need to finish service section of Diary
