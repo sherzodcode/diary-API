@@ -7,6 +7,7 @@ date: 11.03.20023
 Time is 23:46 today i can't code a lot but i changed a lot things in project, like whole structure i can say
 Tomorrow I should end back-end of project and start doing client section 
 And Turn Javascript project to Typescript In Sha Allah
+Make some Photoshop arts is also a good idea
 
 ///////////
 
