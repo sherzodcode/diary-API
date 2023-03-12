@@ -3,15 +3,16 @@ import { PageDto } from "models/page";
 
 const prisma = new PrismaClient()
 
-// export const addPage = async (dataPage: PageDto) => {
-//     return prisma.page.create({
-//         data: {
-//             date: dataPage.date,
-//             title: dataPage.title,
-//             context: dataPage.context
-//         }
-//     })
-// }
+
+export const addPage = async(date: string, title: string, context: string) => {
+    return prisma.page.create({
+        data: {
+            date,
+            title,
+            context
+        }
+    })
+}
 
 export const allPages = async() => {
     return prisma.page.findMany()
@@ -30,7 +31,7 @@ export const updatePage = async(dataPage: PageDto, id: number) => {
         data: {
             date:       dataPage.date,
             title:      dataPage.title,
-            info:       dataPage.context
+            context:       dataPage.context
         },where: {
             id
         }

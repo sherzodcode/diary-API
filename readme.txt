@@ -2,6 +2,16 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ///////////
+date: 12.03.2023
+
+Today is sunday, but if i want to improve my coding skills i have to code every single day In Sha Allah.
+I fixed add service problem , i dunno why that problem was happened , but i fixed it with not using Dto model, i used simple code and it worked
+As a true programmer, i agree with ths method , if it works don't touch it
+Service section is done , now i need to make controller section 
+
+///////////
+
+///////////
 date: 11.03.20023
 
 Time is 23:46 today i can't code a lot but i changed a lot things in project, like whole structure i can say
