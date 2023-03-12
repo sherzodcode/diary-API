@@ -8,7 +8,7 @@ Today is sunday, but if i want to improve my coding skills i have to code every 
 I fixed add service problem , i dunno why that problem was happened , but i fixed it with not using Dto model, i used simple code and it worked
 As a true programmer, i agree with ths method , if it works don't touch it
 Service section is done , now i need to make controller section 
-I started controller section,
+I started controller section, Now i have to add JOI validator
 
 ///////////
 
