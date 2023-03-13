@@ -1,6 +1,18 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+//////////
+date: 13.03.2023
+
+Time is 15:39 today i couldn't go to the station once again, But even i couldn't go i coded
+I made controloler section and config file, I add Validation file but i don't understand how to use it
+Making Routes section is my next goal
+
+//////////
+
+
+
+
 ///////////
 date: 12.03.2023
 
