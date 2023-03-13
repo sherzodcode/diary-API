@@ -6,7 +6,7 @@ date: 13.03.2023
 
 Time is 15:39 today i couldn't go to the station once again, But even i couldn't go i coded
 I made controloler section and config file, I add Validation file but i don't understand how to use it
-Making Routes section is my next goal
+Making Routes section is my next goal, maybe tomorrow
 
 //////////
 
