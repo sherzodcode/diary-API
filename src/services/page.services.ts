@@ -26,6 +26,15 @@ export const findByTitle = async(title: string) => {
     })
 }
 
+export const findPageById = async(id: number) => {
+    return prisma.page.findFirst({
+        where: {
+            id
+        }
+    })
+}
+
+
 export const updatePage = async(dataPage: PageDto, id: number) => {
     return prisma.page.update({
         data: {
