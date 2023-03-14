@@ -2,6 +2,12 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 //////////
+date: 14.03.2023
+It's 12: 54, i'm in station, simple version of diary projects back-end is complete
+
+//////////
+
+//////////
 date: 13.03.2023
 
 Time is 15:39 today i couldn't go to the station once again, But even i couldn't go i coded
