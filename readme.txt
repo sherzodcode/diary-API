@@ -5,6 +5,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 14.03.2023
 It's 12: 54, i'm in station, simple version of diary projects back-end is complete
 Today software engineer from Alexandria should come to the Station, I'm thinking about is it better if i stay quiet and listen what he says or give him some questions 
+Ok he came. But he is not even a software engineer, he is jst a manager of university which needs money, it was just a commercial of university, that's bullshit
 
 //////////
 
