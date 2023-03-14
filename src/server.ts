@@ -1,6 +1,7 @@
 import { ACCESS_TOKEN, PORT } from 'config'
 import express from 'express'
 import cors from 'cors'
+import pageRoutes from './routes/page.routes'
 
 const app = express()
 
@@ -20,6 +21,8 @@ app.use((req,res,next) => {
     next()
 })
 
+
+app.use('/api', pageRoutes)
 
 
 
