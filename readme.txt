@@ -7,7 +7,7 @@ It's 12: 54, i'm in station, simple version of diary projects back-end is comple
 Today software engineer from Alexandria should come to the Station, I'm thinking about is it better if i stay quiet and listen what he says or give him some questions 
 Ok he came. But he is not even a software engineer, he is jst a manager of university which needs money, it was just a commercial of university, that was bullshit
 I added get by Id section and fixed some bugs in Project, now it's done. 
-Make books list project with Typescript  is next i think 
+Make books list project with Typescript  is next i think, or i should make this project's client version first? 
 
 //////////
 
