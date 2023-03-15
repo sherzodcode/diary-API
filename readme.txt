@@ -6,7 +6,7 @@ date: 15.03.2023
 
 Time is 14:04 i'm in station. I really don't know wat to do now, js project or Client version of Diary. 
 I added find pages by their date function into the project, it was like 5 minute of easy code
-Fastify js seems pretty fun , gotta make this project in it
+Fastify js seems pretty fun , gotta make this project in it, and one more js project
 
 
 //////////
