@@ -14,6 +14,8 @@ export const addPage = async(date: string, title: string, context: string) => {
     })
 }
 
+
+
 export const allPages = async() => {
     return prisma.page.findMany()
 }
