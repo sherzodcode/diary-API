@@ -1,8 +1,13 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+
+
+
+
 //////////
 date: 14.03.2023
+
 It's 12: 54, i'm in station, simple version of diary projects back-end is complete
 Today software engineer from Alexandria should come to the Station, I'm thinking about is it better if i stay quiet and listen what he says or give him some questions 
 Ok he came. But he is not even a software engineer, he is jst a manager of university which needs money, it was just a commercial of university, that was bullshit
@@ -64,7 +69,6 @@ He thinks because of old npm project didn't run. Whatever Prject is working. One
 Now i nedd to add service section and Fix add-allias
 today i can't but Tomorrow I should end Back-end of Diary Project and faveo
 
-
 ///////////
 
 
@@ -85,9 +89,7 @@ I'm thinking about should i add service section today, but the problem is prisma
 
 date: 07.03.2023
 
-
 I get to do an Api for this , start after i go to the DATA
-
 It's 22'36 right nowTtoday i couldn't go to the DATA station for some reasons, but i started my Diary project API...
 But there's some problems with Prisma. The problem is so funny, there's no such a folder in my code but error says it's in there
 I have to show my Problem to SENSEI Jalol
@@ -103,19 +105,11 @@ In Sha Allah tomorrow , i'll start React courses , cuz i need make CLIENT sectio
 
 date:   06.03.2023
 
-
 Today i worked on our project Faveo and tried to fulfill Prooduct section.
-
 And i Planned to make "Diary" Web app and started fisrt step, Made this Repository
-
 Now i need to make documentation for this Project
-
 In Sha Allah today i'm gonna start make documentation 
-
 And i understansd one more thing, i need to learn react js and Deploying to server for this project , if i want to make it real (I WANT IT!!!)
 
 
 ///////////
-
-
-
