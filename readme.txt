@@ -1,8 +1,12 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+//////////
+date: 15.03.2023
 
+Time is 14:04 i'm in station. I really don't know wat to do now, js project or Client version of Diary. 
 
+//////////
 
 
 //////////
