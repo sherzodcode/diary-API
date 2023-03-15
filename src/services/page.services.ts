@@ -37,6 +37,16 @@ export const findPageById = async(id: number) => {
 }
 
 
+export const findPageByDate = async(date: string) => {
+    return prisma.page.findFirst({
+        where : {
+            date
+        }
+    })
+}
+
+
+
 export const updatePage = async(dataPage: PageDto, id: number) => {
     return prisma.page.update({
         data: {
