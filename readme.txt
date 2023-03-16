@@ -1,6 +1,16 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+
+//////////
+date: 16.03.2023
+
+It's 19:25 i'm in my room. 
+Today i added 4 questions to my "JOB INTERVIEW" repository , which i made last night, now, there r 5 questions if count all of'm.
+I have to add 65 more questions to that repository
+
+//////////
+
 //////////
 date: 15.03.2023
 
