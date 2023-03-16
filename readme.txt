@@ -8,7 +8,7 @@ date: 16.03.2023
 It's 19:25 i'm in my room. 
 Today i added 4 questions to my "JOB INTERVIEW" repository , which i made last night, now, there r 5 questions if count all of'm.
 I have to add 65 more questions to that repository, They r in telegram cloud
-By adding those questions and answers , i myself is learning from that too
+By adding those questions and answers , i myself is learning from that too, i'm reLearning now
 
 //////////
 
