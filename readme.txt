@@ -17,7 +17,7 @@ date: 15.03.2023
 Time is 14:04 i'm in station. I really don't know wat to do now, js project or Client version of Diary. 
 I added find pages by their date function into the project, it was like 5 minute of easy code
 Fastify js seems pretty fun , gotta make this project in it, and one more js project
-
+I made repository about job interview questions, there r 70 questions and answers that can help me for job interview.
 
 //////////
 
@@ -40,9 +40,7 @@ Time is 15:39 today i couldn't go to the station once again, But even i couldn't
 I made controloler section and config file, I add Validation file but i don't understand how to use it
 Making Routes section is my next goal, maybe tomorrow is the day
 
-
 //////////
-
 
 
 
@@ -102,8 +100,6 @@ I'm thinking about should i add service section today, but the problem is prisma
 
 
 ///////////
-
-
 date: 07.03.2023
 
 I get to do an Api for this , start after i go to the DATA
@@ -127,6 +123,5 @@ And i Planned to make "Diary" Web app and started fisrt step, Made this Reposito
 Now i need to make documentation for this Project
 In Sha Allah today i'm gonna start make documentation 
 And i understansd one more thing, i need to learn react js and Deploying to server for this project , if i want to make it real (I WANT IT!!!)
-
 
 ///////////
