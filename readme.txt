@@ -1,6 +1,15 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+//////////
+date: 17.03.2023
+
+Today was an interesting day, I was really scared that i might go to the army for 1 yearsssss
+That was sick as shit, I could'nt believe how bad was the the workers out there, They are fricking liers.
+But my father came and it was done Alhamdulillah. I'll not care about army untill nect year, In Sha Allah
+And i coded today, yess, i added 5 more questions to JOB INTERVIEW repository
+
+//////////
 
 //////////
 date: 16.03.2023
