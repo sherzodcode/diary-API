@@ -10,6 +10,7 @@ But my father came and it was done Alhamdulillah. I'll not care about army until
 And i coded today, yess, i added 5 more questions to JOB INTERVIEW repository
 Ok I started my Nest js project , now i need to learn nest js. In SHa Allah that's not gonna be that bad
 I deleted Nest js project. Cus that code was trash nothin else, I wanna make a new one, but eith the same project idea
+But... so wants to sleep. Hope gonna make it tomorrow
 
 //////////
 
