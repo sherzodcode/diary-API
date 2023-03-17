@@ -8,6 +8,7 @@ Today was an interesting day, I was really scared that i might go to the army fo
 That was sick as shit, I could'nt believe how bad was the the workers out there, They are fricking liers.
 But my father came and it was done Alhamdulillah. I'll not care about army untill nect year, In Sha Allah
 And i coded today, yess, i added 5 more questions to JOB INTERVIEW repository
+Ok I started my Nest js project , now i need to learn nest js. In SHa Allah that's not gonna be that bad
 
 //////////
 
