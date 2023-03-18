@@ -8,7 +8,8 @@ It's 12: 45 i'm in station, sumalak party is gooin on, Today i learn some nest j
 Need to fulfill nest js project with CRUD, TODAY!!
 I made nest js project , but didn't finish it yet. Wanna make it but , my brain just wants to sleep right now. I don't thin i can handle video lessons
 I'll probably get sleep while watching it
-
+Today I just checked NEST js, In Sha Allah tomorrow i'll write a better code, and finish the project.
+Also tomorrow is Ufc , i wanna watch it but Sleeping is more important to me than ufc, soo Probably i'm gonna miss it this time
 
 //////////
 
