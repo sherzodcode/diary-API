@@ -10,7 +10,7 @@ I made nest js project , but didn't finish it yet. Wanna make it but , my brain 
 I'll probably get sleep while watching it
 Today I just checked NEST js, In Sha Allah tomorrow i'll write a better code, and finish the project.
 Also tomorrow is Ufc , i wanna watch it but Sleeping is more important to me than ufc, soo Probably i'm gonna miss it this time
-Today Uzbekistan became an u20 Asia Champions in Footbal , seems stadium was full of people, i wish games like that was in my town too , in Urgench
+Today Uzbekistan won asian championship in Footbal , seems stadium was full of people, i wish games like that was in my town too , in Urgench
 
 //////////
 
