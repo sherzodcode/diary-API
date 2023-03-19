@@ -2,6 +2,14 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 //////////
+date: 19.03.2023
+
+Time is 23:30. Today was sunday so i didn't code too much
+I just remade my nest js project
+
+//////////
+
+//////////
 date: 18.03.2023
 
 It's 12: 45 i'm in station, sumalak party is gooin on, Today i learn some nest js tricks and i added 5 questions to JOB INTERVIEW project
