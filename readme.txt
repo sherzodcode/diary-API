@@ -5,7 +5,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 19.03.2023
 
 Time is 23:30. Today was sunday so i didn't code too much
-I just remade my nest js project
+I just remade my nest js project, and fix some bugs
 
 //////////
 
