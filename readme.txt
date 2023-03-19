@@ -7,6 +7,7 @@ date: 19.03.2023
 Time is 23:30. Today was sunday so i didn't code too much
 I just remade my nest js project, and fix some bugs, I had problem with esLint, and i fix it by looking StackOverflow, it felts so good after fixing a bug isn't it
 But i can't add 5 more questions to JOB INTERVIEW project , yet...
+Maybe next 20 minutes i'll add them
 
 //////////
 
