@@ -1,6 +1,16 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+/////////
+date: 20.03.2023
+
+Today was a rest day too.
+Time is 23:08, today i made improve my JOB INTERVIEW project to 20 questions
+I didn't continiu my Nest js project but i should do it
+
+/////////
+
+
 //////////
 date: 19.03.2023
 
