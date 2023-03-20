@@ -7,6 +7,8 @@ date: 20.03.2023
 Today was a rest day too.
 Time is 23:08, today i made improve my JOB INTERVIEW project to 20 questions
 I didn't continiu my Nest js project but i should do it
+Tomorrow i should finish my nest js project. That's IT 
+
 
 /////////
 
