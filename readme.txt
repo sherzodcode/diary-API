@@ -2,6 +2,15 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 /////////
+date: 21.03.2023
+
+Today is holiday in uzbekistan and many places dosen't work, but i don't celebrate navruz. Soo that's not for me.
+I'm learning and Improving In Sha Allah. 
+Today i complete my crud quaries in Nest js Project , but it's far away from finish. I need to keep push myself
+
+/////////
+
+/////////
 date: 20.03.2023
 
 Today was a rest day too.
