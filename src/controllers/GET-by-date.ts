@@ -1,6 +1,8 @@
 import {Request , Response } from 'express'
 import { findPageByDate } from '@services/page.services'
 
+//// Date should be a string
+
 export default async(req: Request, res: Response) => {
     try{
         const {date} = req.body
