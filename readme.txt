@@ -7,7 +7,9 @@ date: 23.03.2023
 Today is forst day of Ramadan.
 So my plan is going early to the station andwork there.
 But the problem is , there may not be an internet.
-
+I'm in station right now.
+Time is 12:33 , and i found internet. I added 5 questions and answers to JOB INTERVIEW project.
+When i go home, i need to  finih my Nest js project. Tomorrow is deadline.
 
 /////////
 
