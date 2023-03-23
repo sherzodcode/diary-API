@@ -2,6 +2,24 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 /////////
+date: 23.03.2023
+
+Today is forst day of Ramadan.
+So my plan is going early to the station andwork there.
+But the problem is , there may not be an internet.
+
+
+/////////
+
+
+/////////
+date: 22.03.2023
+
+I made 16 pull requests and marges. I planned to writ more code but unfortunetely i fell asleep.
+I shouldn't do that again , I should do my job earlier. And In Sha Allah i'm gonna become a real software engineer
+/////////
+
+/////////
 date: 21.03.2023
 
 Today is holiday in uzbekistan and many places dosen't work, but i don't celebrate navruz. Soo that's not for me.
