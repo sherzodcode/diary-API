@@ -2,9 +2,20 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 /////////
+date: 24.03.2023
+
+2nd Day of af Ramadan. Today in Station had electricity problems. So i didn't go there.
+But Sensei gave us many Tasks.
+First. we need to change Postgresql to Elephant Sql in Faveo Project.
+Second. Sensei added order section. Need to finish that section. But it's bit difficult, anyway who cares.
+
+Today 
+/////////
+
+/////////
 date: 23.03.2023
 
-Today is forst day of Ramadan.
+Today is first day of Ramadan.
 So my plan is going early to the station andwork there.
 But the problem is , there may not be an internet.
 I'm in station right now.
