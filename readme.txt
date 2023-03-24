@@ -8,6 +8,8 @@ date: 24.03.2023
 But Sensei gave us many Tasks.
 First. we need to change Postgresql to Elephant Sql in Faveo Project.
 Second. Sensei added order section. Need to finish that section. But it's bit difficult, anyway who cares.
+Third. Sensei gave us another project. Which we need to code in fronntend Too. So i have to learn Frontend in nearly 24 hours.
+That project should be written with handle-bars
 
 Today 
 /////////
