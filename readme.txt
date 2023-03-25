@@ -6,7 +6,7 @@ date: 25.03.2023
 
 Today was an amazing day Alhamdulilah. Not the most productive day but not bad at all.
 I couldn't code at all.
-But now i should
+But now i should learn HBS again
 
 ////////
 
