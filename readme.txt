@@ -2,6 +2,15 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 27.03.2023
+
+Time is 12:04 , i'm in my home right now. I dunno would i go to the station today.
+Today i need to finish Muxtor's banner and start HBS project.
+And finish CRUD in Nest.js Project
+
+////////
+
+////////
 date: 26.03.2023
 
 I'm writing this in 27th march, cus tomorrow i couldn't work with my Laptop.
