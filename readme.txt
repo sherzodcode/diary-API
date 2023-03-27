@@ -7,13 +7,17 @@ date: 27.03.2023
 Time is 12:04 , i'm in my home right now. I dunno would i go to the station today.
 Today i need to finish Muxtor's banner and start HBS project.
 And finish CRUD in Nest.js Project
+I couldn't do it again.
+Tomorrow is challange for me In Sha Allah.
+I should write code 3 hours straight
+
 
 ////////
 
 ////////
 date: 26.03.2023
 
-I'm writing this in 27th march, cus tomorrow i couldn't work with my Laptop.
+I'm writing this in 27th march, cus Yesterday i couldn't work with my Laptop.
 Tomorrow I was kind of a sick. LANJ. If i say in uzbek/
 I had plans . But ok. Today i should do them
 
