@@ -10,7 +10,7 @@ And finish CRUD in Nest.js Project
 I couldn't do it again.
 Tomorrow is challange for me In Sha Allah.
 I should write code 3 hours straight
-
+Also i should end watching AOT 
 
 ////////
 
