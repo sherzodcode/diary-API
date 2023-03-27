@@ -2,6 +2,15 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 26.03.2023
+
+I'm writing this in 27th march, cus tomorrow i couldn't work with my Laptop.
+Tomorrow I was kind of a sick. LANJ. If i say in uzbek/
+I had plans . But ok. Today i should do them
+
+////////
+
+////////
 date: 25.03.2023
 
 Today was an amazing day Alhamdulilah. Not the most productive day but not bad at all.
