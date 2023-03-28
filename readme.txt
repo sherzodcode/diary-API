@@ -2,6 +2,15 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 28.03.2023
+
+It's 14:32 , i'm in station right now.
+Today is 3 hours coding challange day. I dunno when it starts.
+I added 5 questions and answers to JOB INTERVIEW project
+
+////////
+
+////////
 date: 27.03.2023
 
 Time is 12:04 , i'm in my home right now. I dunno would i go to the station today.
