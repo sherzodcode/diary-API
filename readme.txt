@@ -7,6 +7,7 @@ date: 28.03.2023
 It's 14:32 , i'm in station right now.
 Today is 3 hours coding challange day. I dunno when it starts.
 I added 5 questions and answers to JOB INTERVIEW project
+Nest js project is goin on...
 
 ////////
 
