@@ -2,6 +2,19 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 29.03.2023
+
+Time is 22:07. Today i understand one of my biggest mistake in my life. I started watching anime.
+I shouldn't watch that shit. Even if everyone tells me to do.
+Attack on titan is a piece of shit to be honest. that genocide shit was horrible.
+Eren...
+Cus of that , i couldn't code at all. i was kind of a sick. and it was a mistake.
+I shouldn't do that again
+
+////////
+
+
+////////
 date: 28.03.2023
 
 It's 14:32 , i'm in station right now.
