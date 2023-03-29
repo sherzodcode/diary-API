@@ -10,6 +10,7 @@ Attack on titan is a piece of shit to be honest. that genocide shit was horrible
 Eren...
 Cus of that , i couldn't code at all. i was kind of a sick. and it was a mistake.
 I shouldn't do that again
+I just probably finished CRUD of nest js project
 
 ////////
 
