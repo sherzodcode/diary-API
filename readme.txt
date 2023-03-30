@@ -2,6 +2,16 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 30.03.2023
+
+it's 13:28, i'm in station right now. Mood is not the best mood i've ever had but ok. Alhamdulillah i'm ok.
+Today i need to start HBS project, and improve NEst js project.
+And add questions to JOB INTERVIEW questions roject
+
+////////
+
+
+////////
 date: 29.03.2023
 
 Time is 22:07. Today i understand one of my biggest mistake in my life. I started watching anime.
