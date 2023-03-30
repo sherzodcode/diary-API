@@ -6,7 +6,8 @@ date: 30.03.2023
 
 it's 13:28, i'm in station right now. Mood is not the best mood i've ever had but ok. Alhamdulillah i'm ok.
 Today i need to start HBS project, and improve NEst js project.
-And add questions to JOB INTERVIEW questions roject
+And add questions to JOB INTERVIEW questions roject.
+Finish muxtor's poster
 
 ////////
 
