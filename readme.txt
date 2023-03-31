@@ -2,6 +2,15 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 31.03.2023
+
+Today i got sick. Alhamdulillah. In Sha Allah , it's only good for me.
+And today Our president came to Urgench. Cus of that station was absolutely chaos. They took away phones and smart watches and so.
+I didn't like it . I came home early. I can't even code these days enough. I have to fix that problem.
+
+////////
+
+////////
 date: 30.03.2023
 
 it's 13:28, i'm in station right now. Mood is not the best mood i've ever had but ok. Alhamdulillah i'm ok.
