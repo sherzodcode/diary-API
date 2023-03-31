@@ -2,6 +2,14 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 01.04.2023
+
+Today is first day of april. Time is 0:04. I think i finish html part of HBS project.
+I need to open open new repository for that project, and push there.
+
+////////
+
+////////
 date: 31.03.2023
 
 Today i got sick. Alhamdulillah. In Sha Allah , it's only good for me.
