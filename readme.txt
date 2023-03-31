@@ -7,6 +7,7 @@ date: 31.03.2023
 Today i got sick. Alhamdulillah. In Sha Allah , it's only good for me.
 And today Our president came to Urgench. Cus of that station was absolutely chaos. They took away phones and smart watches and so.
 I didn't like it . I came home early. I can't even code these days enough. I have to fix that problem.
+I started HBS project and In Sha Allah i'll finish that project tomorrow
 
 ////////
 
