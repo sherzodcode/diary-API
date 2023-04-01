@@ -6,6 +6,9 @@ date: 01.04.2023
 
 Today is first day of april. Time is 0:04. I think i finish html part of HBS project.
 I need to open open new repository for that project, and push there.
+Ok, Time is 23:14. I started Handle-bars project but not finished yet.
+I had a little bit problem with Tailwind css config , but now it's fixed.
+In Sha Allah Tomorrow , i'll do my best to finish this project
 
 ////////
 
