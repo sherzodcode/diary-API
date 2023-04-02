@@ -2,6 +2,15 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 02.04.2023
+
+Today is Sunday. Rest day actually. But i had rest enough Alhamdulillah , and i need to push myself.
+I only finished with icons in HBS project. That's a bad news. But now i'll try my best to improve it.
+
+////////
+
+
+////////
 date: 01.04.2023
 
 Today is first day of april. Time is 0:04. I think i finish html part of HBS project.
