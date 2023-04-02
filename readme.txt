@@ -8,7 +8,7 @@ Today is Sunday. Rest day actually. But i had rest enough Alhamdulillah , and i 
 I only finished with icons in HBS project. That's a bad news. But now i'll try my best to improve it.
 Ok i added Title to HBS project and Made some Improvements in the code.
 But i have couple of little problems. 
-First i tought <a> Tag sends GET request in deafult. But it doesn't send that. Now i need to figure out how to send GET request with <a> tag or change it wiyh form button
+First i tought <a> Tag sends GET request in deafult. But it doesn't send that. Now i need to figure out how to send GET request with <a> tag or change it with form button
 
 ////////
 
