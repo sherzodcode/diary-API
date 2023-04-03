@@ -7,6 +7,7 @@ date: 03.04.2023
 Time is 10:18, I'm preparing to go to the station.
 Minutes ago i fixed my yesterdays <a> tag problem. Solution was super simple, i just gave wrong link yesterday, that's it. 
 And i added Prisma to this project. In Sha allah very soon i'll start making backend for it.
+Ok, i added all extra files and now ready to start making add page and backend.
 
 ////////
 
