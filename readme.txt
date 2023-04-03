@@ -2,6 +2,15 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 04.04.2023
+
+Time is 00:54. I need to sleep right now.
+I just added add module Dto to HBs project
+
+////////
+
+
+////////
 date: 03.04.2023
 
 Time is 10:18, I'm preparing to go to the station.
