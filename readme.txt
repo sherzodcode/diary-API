@@ -6,6 +6,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 05.04.2023
 
 It's 00:01 right now. Minutes ago i started Controller of Add SMS in HBS project
+Al-nassr's match should have started in 00:00 today. If it's already started. I'm into That
 
 ////////
 
