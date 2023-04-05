@@ -10,6 +10,8 @@ Al-nassr's match should have started in 00:00 today. If it's already started. I'
 Al-nassr won the match. Ronaldo made double.
 Time is 11:58, i'm about to go to the station.
 I'm in station right now.
+I think i finished controller of add sms and made routes for that. Hope that works.
+In Sha Allah , in home i'll test that, and add another sections
 
 ////////
 
