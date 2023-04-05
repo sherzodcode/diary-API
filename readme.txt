@@ -8,7 +8,8 @@ date: 05.04.2023
 It's 00:01 right now. Minutes ago i started Controller of Add SMS in HBS project
 Al-nassr's match should have started in 00:00 today. If it's already started. I'm into That
 Al-nassr won the match. Ronaldo made double.
-Time is 11:58, i'm about to go to the station
+Time is 11:58, i'm about to go to the station.
+I'm in station right now.
 
 ////////
 
