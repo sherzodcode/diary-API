@@ -3,6 +3,13 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 ////////
+date: 06.04.2023
+
+I'm in station, It's 11:46 right now. Need to continue HBS project.
+
+////////
+
+////////
 date: 05.04.2023
 
 It's 00:01 right now. Minutes ago i started Controller of Add SMS in HBS project
