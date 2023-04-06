@@ -7,6 +7,7 @@ date: 06.04.2023
 
 I'm in station, It's 11:46 right now. Need to continue HBS project.
 I added Error section to HBS project, but cards design got just horrible. I need to fix that when i'll get home
+Time is 14:22, just added 5 question and answers to JOB INTERVIEW project.
 
 ////////
 
