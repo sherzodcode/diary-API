@@ -6,6 +6,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 06.04.2023
 
 I'm in station, It's 11:46 right now. Need to continue HBS project.
+I added Error section to HBS project, but cards design got just horrible. I need to fix that when i'll get home
 
 ////////
 
