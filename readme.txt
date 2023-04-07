@@ -7,7 +7,7 @@ date: 07.04.2023
 Today is Friday. Time is 12:00 , I just finished design of error SMS section in HBS project. Now i need to make backend of it.
 In Sha Allah , after Juma prayer , i have to go to the station.
 Time is 21:55 . I couldn't go to the station cus my jeans were still wet. right now i'm just chillin and watching some video courses.
-Cat is lying on my legs. That's so amazing and comfy)))
+Cat is lying on my legs. That's so amazing and comfy))) He's sleepin
 
 ////////
 
