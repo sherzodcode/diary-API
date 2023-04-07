@@ -1,6 +1,13 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+////////
+date: 07.04.2023
+
+Today is Friday. Time is 12:00 , I just finished design of error SMS section in HBS project. Now i need to make backend of it.
+In Sha Allah , after Juma prayer , i have to go to the station.
+
+////////
 
 ////////
 date: 06.04.2023
