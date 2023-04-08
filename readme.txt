@@ -10,6 +10,7 @@ I think i need to add default (+998) to that project amd filter first two number
 I just added Error get section but that shit ain't working.
 I have some problams with Prisma and Postgresql. Need to fix that soon.
 It's 14:22 , just added 5 questions and answers to JOB INTERVIEW project.
+Changed very small peice of design in HBS project
 
 ////////
 
