@@ -1,6 +1,13 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+////////
+date: 09.04.2023
+
+Today is a FIghtt dayyyy!!! Israel Adesanya vs Alex Poatan Pereira, there's still more than 10 hours until fight. It's 00:43 right now btw.
+And today i need fox problem with Prisma and Postgresql
+
+////////
 
 ////////
 date: 08.04.2023
