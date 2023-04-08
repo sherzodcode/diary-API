@@ -9,6 +9,7 @@ Time is 11:47, i'm in station. Right now i have to fix few things in HBS project
 I think i need to add default (+998) to that project amd filter first two numbers of the input In Shaa Allah. Or i dunno.
 I just added Error get section but that shit ain't working.
 I have some problams with Prisma and Postgresql. Need to fix that soon.
+It's 14:22 , just added 5 questions and answers to JOB INTERVIEW project.
 
 ////////
 
