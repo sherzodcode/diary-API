@@ -6,6 +6,7 @@ date: 09.04.2023
 
 Today is a FIghtt dayyyy!!! Israel Adesanya vs Alex Poatan Pereira, there's still more than 10 hours until fight. It's 00:43 right now btw.
 And today i need fox problem with Prisma and Postgresql
+Time is 19:11 , Today i just chilled. Cus today is sunday tho. Whatever i need to fix prisma problem. So In Sha Allah , after iftar i'm gonna start to do it
 
 ////////
 
