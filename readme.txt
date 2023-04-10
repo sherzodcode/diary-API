@@ -6,6 +6,8 @@ date: 10.04.2023
 
 Time is 13:54 , i'm in my room. I should've go to the station but i delayed in a barbershop.
 Todya's goal is same with yesterday's, i need to fix prisma problem.
+I fixed prisma problem. Alhamdulillah.
+Now i have another problem haha, it's even worse. FRONTEND
 
 ////////
 
