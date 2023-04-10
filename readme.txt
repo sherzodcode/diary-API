@@ -8,6 +8,8 @@ Time is 13:54 , i'm in my room. I should've go to the station but i delayed in a
 Todya's goal is same with yesterday's, i need to fix prisma problem.
 I fixed prisma problem. Alhamdulillah.
 Now i have another problem haha, it's even worse. FRONTEND
+Ok , i fixed that problem too. But i have another bug again. This time with routes.
+I dunno should i fix that bug today. Probably yes.
 
 ////////
 
