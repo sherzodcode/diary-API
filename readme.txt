@@ -2,6 +2,14 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 10.04.2023
+
+Time is 13:54 , i'm in my room. I should've go to the station but i delayed in a barbershop.
+Todya's goal is same with yesterday's, i need to fix prisma problem.
+
+////////
+
+////////
 date: 09.04.2023
 
 Today is a FIghtt dayyyy!!! Israel Adesanya vs Alex Poatan Pereira, there's still more than 10 hours until fight. It's 00:43 right now btw.
