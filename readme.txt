@@ -9,6 +9,7 @@ Time is 12:36 and i'm in Station by the way.
 I did some code cleaning in HBS project.
 So i have a plan what to do next. I have to add home button to all other inside pages.
 Added home button to needed ones, now beautiful design and that's it.
+I added 5 question and answers to JOB INTERVIEW project, 15 remains.
 
 ////////
 
