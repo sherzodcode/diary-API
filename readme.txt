@@ -5,7 +5,8 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 11.04.2023
 
 Alhamdulillah, main part of HBS project is done. Now i need to fix other pages of that.
-Time is 12:36 and i'm in Station by the way
+Time is 12:36 and i'm in Station by the way.
+I did some code cleaning in HBS project.
 
 ////////
 
