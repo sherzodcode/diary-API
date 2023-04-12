@@ -6,6 +6,7 @@ date: 12.04.2023
 
 Time is 17:16 i'm in my room. Almost 30 minutes ago i came from station.
 In the morning at home i started Todo list project, and in statation , i almost finished half of it, In  Sha Allah today i'll finish it.
+I didn't finish the whole thing but first account section is done, Alhamdulillah
 
 ////////
 
