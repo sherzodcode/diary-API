@@ -2,6 +2,14 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 12.04.2023
+
+Time is 17:16 i'm in my room. Almost 30 minutes ago i came from station.
+In the morning at home i started Todo list project, and in statation , i almost finished half of it, In  Sha Allah today i'll finish it.
+
+////////
+
+////////
 date: 11.04.2023
 
 Alhamdulillah, main part of HBS project is done. Now i need to fix other pages of that.
