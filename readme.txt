@@ -2,6 +2,13 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 13.04.2023
+
+Time is 1:56, I almost finshed the project.
+
+////////
+
+////////
 date: 12.04.2023
 
 Time is 17:16 i'm in my room. Almost 30 minutes ago i came from station.
