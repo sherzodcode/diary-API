@@ -9,6 +9,7 @@ It's 10:36, i just tested yesterday's code and fixed some bugs. Now it's working
 It's 11:31, Just finished the project TODO list, Alhamdulillah. Tested all fetches and everything is working well.
 I'm in station right now. Project needs to upload on glitch.com. And compile typescript to js
 Just added 5 questions to JOB INTERVIEW project.
+Time is 23:13 , few minutes ago i compiled ts files to js, now upload to server remains.
 
 ////////
 
