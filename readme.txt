@@ -5,6 +5,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 13.04.2023
 
 Time is 1:56, I almost finshed the project.
+It's 10:36, i just tested yesterday's code and fixed some bugs. Now it's working , ALhamdulillah.
 
 ////////
 
