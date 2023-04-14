@@ -7,6 +7,7 @@ date: 14.04.2023
 Today is Juma , Friday. Time is 14:35 i'm in station right now.
 Today's mission is deploy TODO list project to glitch server.
 Glitch is full of bugs. I dunno why but that shit can't see a prisma client in packgage json file.
+I need to check all of js code in glitch and fix them, when i go home
 
 ////////
 
