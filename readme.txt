@@ -2,6 +2,15 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 14.04.2023
+
+Today is Juma , Friday. Time is 14:35 i'm in station right now.
+Today's mission is deploy TODO list project to glitch server.
+
+////////
+
+
+////////
 date: 13.04.2023
 
 Time is 1:56, I almost finshed the project.
