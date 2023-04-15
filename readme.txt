@@ -5,7 +5,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 15.04.2023
 
 Time is 12:20, i'm in station right now. Treaning of sariq.dev is still goin on. Like it's online wtf. 
-
+Added delete link, but not connected to server. Today i should fix that. And should add reverse change status link
 
 ////////
 
