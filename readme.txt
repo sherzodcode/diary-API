@@ -2,6 +2,15 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 ////////
+date: 15.04.2023
+
+Time is 12:20, i'm in station right now. Treaning of sariq.dev is still goin on. Like it's online wtf. 
+
+
+////////
+
+
+////////
 date: 14.04.2023
 
 Today is Juma , Friday. Time is 14:35 i'm in station right now.
