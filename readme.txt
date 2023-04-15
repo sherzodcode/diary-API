@@ -7,6 +7,7 @@ date: 15.04.2023
 Time is 12:20, i'm in station right now. Treaning of sariq.dev is still goin on. Like it's online wtf. 
 Added delete link, but not connected to server. Today i should fix that. And should add reverse change status link
 Delete button added, and it's perfectly working.
+Added 5 questions and answers to JOB INTERVIEW project.
 
 ////////
 
