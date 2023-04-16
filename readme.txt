@@ -10,6 +10,7 @@ Time is 19:18, rest was not bad Alhamdulillah, but that's enough for today.
 I need to comeback to coding, and fix Some design problems of HBS project, after iftar.
 And learn some stuff would be amazing , In Sha Allah.
 Have to check HBS project. CHECKED.
+Learn a lil bit of prisma relation quaries.
 
 ////////
 
