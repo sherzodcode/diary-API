@@ -5,6 +5,8 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 17.04.2023
 
 Time is !3:16 i'm in station right now, need to end Job interview project.
+I added Two sms page designs to HBS project, Today i need configure and redisgn them.
+
 ///////
 
 
