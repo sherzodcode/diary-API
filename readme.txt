@@ -7,6 +7,7 @@ date: 17.04.2023
 Time is !3:16 i'm in station right now, need to end Job interview project.
 I added Two sms page designs to HBS project, Today i need configure and redisgn them.
 Prisma relation quaries is next thing to check.
+It's 19:16 i'm in my room right now, and it's freezing. Ahhhhhh. I don't wanna do nothin.
 
 ///////
 
