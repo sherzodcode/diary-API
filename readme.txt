@@ -10,6 +10,7 @@ It's 13:30 , i'm in station.
 I tried possible servers to deploy my TODO list project, cus i used prisma orm in this project, it wasn't that easy to find server which supports prisma, i found it.
 But turns out that is not free. Another one just for frontend.
 Seems like i have no other choice than turn prisma quaries into sqlite clean quaries.
+Turn's out there's a way to deploy backend app to vercel, right now i'm trying it.
 
 ///////
 
