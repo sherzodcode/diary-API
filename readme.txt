@@ -6,6 +6,11 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 18.04.2023
 
 Time is 01:14, i really wanna sleep right now. But i have so many not finished jobs.
+It's 13:30 , i'm in station. 
+I tried possible servers to deploy my TODO list project, cus i used prisma orm in this project, it wasn't that easy to find server which supports prisma, i found it.
+But turns out that is not free. Another one just for frontend.
+Seems like i have no other choice than turn prisma quaries into sqlite clean quaries.
+
 ///////
 
 
