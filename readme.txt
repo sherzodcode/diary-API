@@ -4,7 +4,8 @@ I should write about what i code, and how i did it, my toughts about that and wh
 ////////
 date: 19.04.2023
 
-time is 12:47, i'm in home right now. I'm trying to deploy my TODO list project to VERCEL. But it's not working.
+time is 12:47, i'm in home right now. I'm trying to deploy my TODO list project to VERCEL. But it's not working. it didn't work.
+Now only sqlite3 remains.
 ////////
 
 
