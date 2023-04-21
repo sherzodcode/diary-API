@@ -8,7 +8,7 @@ Hammamiza Ramazon hayit bayrami muborak bolsin.
 Today i should do what i didn't yesterday. Code.
 Ok i fixed the mess code of TODO list project. Now it's ok.
 Yesterday In Sha Allah , i need to deploy TODO list project.
-Today i should learn Typescript tricks.
+Today i should learn Typescript tricks. I checked one of them. 
 
 /////////
 
