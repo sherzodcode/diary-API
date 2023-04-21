@@ -7,6 +7,7 @@ date: 21.04.2023
 Hammamiza Ramazon hayit bayrami muborak bolsin. 
 Today i should do what i didn't yesterday. Code.
 Ok i fixed the mess code of TODO list project. Now it's ok.
+Yesterday In Sha Allah , i need to deploy TODO list project.
 
 /////////
 
