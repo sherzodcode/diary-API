@@ -1,6 +1,14 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+
+/////////
+date: 22.04.2023
+
+Today we went to the bazar took almost all we need for trip outside of the city.
+
+/////////
+
 /////////
 date: 21.04.2023
 
