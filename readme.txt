@@ -6,7 +6,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 22.04.2023
 
 Today we went to the bazar took almost all we need for trip outside of the city.
-Time is 19:07 i'm in home right now.
+Time is 19:07 i'm in home right now. Today we have a football match with our friends.
 
 /////////
 
