@@ -7,6 +7,8 @@ date: 22.04.2023
 
 Today we went to the bazar took almost all we need for trip outside of the city.
 Time is 19:07 i'm in home right now. Today we have a football match with our friends.
+After i came back from football , i should code IN Sha Allha.
+And sleep early.
 
 /////////
 
