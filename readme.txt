@@ -4,7 +4,9 @@ I should write about what i code, and how i did it, my toughts about that and wh
 /////////
 date: 23.04.2023
 
-Time is 7:53 i'm about to go to the trip
+Time is 7:53 i'm about to go to the trip.
+I came Back, Alhamdulillah , it was a great time with good people.
+
 /////////
 
 
