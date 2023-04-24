@@ -7,7 +7,8 @@ date: 24.04.2023
 Time is 22:46 i'm about to sleep.
 Todatt was not bad Alhamdulillah. But i was lil biy sick.
 Today i couldn't code. If be honest this week i couldnn't code normally. But In SHa Allah From now i'll code regularly and many more.
-And learn
+And learn. 
+Tommorrow i should start making MEMES project. Start to make this project's frontend. Finish the JOb interview project.
 /////////
 
 
