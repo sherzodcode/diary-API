@@ -9,6 +9,7 @@ Todatt was not bad Alhamdulillah. But i was lil biy sick.
 Today i couldn't code. If be honest this week i couldnn't code normally. But In SHa Allah From now i'll code regularly and many more.
 And learn. 
 Tommorrow i should start making MEMES project. Start to make this project's frontend. Finish the JOb interview project.
+Right now ishould check Meme project's documentation.
 /////////
 
 
