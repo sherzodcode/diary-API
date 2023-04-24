@@ -10,6 +10,7 @@ Today i couldn't code. If be honest this week i couldnn't code normally. But In 
 And learn. 
 Tommorrow i should start making MEMES project. Start to make this project's frontend. Finish the JOb interview project.
 Right now ishould check Meme project's documentation. And i should go Station tommorow, not such as today.
+I checked meme Project's documantation.
 /////////
 
 
