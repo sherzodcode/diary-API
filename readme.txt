@@ -5,7 +5,9 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 25.04.2023
 
 Time is 12:07 i'm in Station right now.
-Alhamdulillah beta version of HBS project is probably done. But still there's more to improve.
+Alhamdulillah beta version of HBS project is probably done. But still there's more to improve. Design and some prisma problem.
+Next thing is JOB interview project. It needs to be done.
+
 //////////
 
 
