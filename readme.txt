@@ -7,6 +7,8 @@ date: 25.04.2023
 Time is 12:07 i'm in Station right now.
 Alhamdulillah beta version of HBS project is probably done. But still there's more to improve. Design and some prisma problem.
 Next thing is JOB interview project. It needs to be done.
+Time is 23:49, i'm about to sleep.
+Tomorrow In Sha Allah i'll learn more about fs node js module.
 
 //////////
 
