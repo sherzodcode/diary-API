@@ -9,6 +9,7 @@ Time is 11:40 , i'm in station.
 Today ihave to finish JOB INTERVIEW project.
 And start learning node js deeply.
 Alhamdulillah i finished JOB INTERVIEW project. It's most likely notes, nothing else. In Sha Allah , i'll improve that later.
+I added delete button to Trafic system project's title section.
 /////////
 
 
