@@ -8,6 +8,7 @@ Few minutes ago i finished demo version of artwork.
 Time is 11:40 , i'm in station.
 Today ihave to finish JOB INTERVIEW project.
 And start learning node js deeply.
+Alhamdulillah i finished JOB INTERVIEW project.
 /////////
 
 
