@@ -5,6 +5,8 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 27.04.2023
 
 Few minutes ago i finished demo version of artwork.
+Time is 11:40 , i'm in station.
+Today ihave to finish JOB INTERVIEW project.
 /////////
 
 
