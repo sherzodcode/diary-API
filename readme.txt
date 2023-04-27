@@ -7,6 +7,7 @@ date: 27.04.2023
 Few minutes ago i finished demo version of artwork.
 Time is 11:40 , i'm in station.
 Today ihave to finish JOB INTERVIEW project.
+And start learning node js deeply.
 /////////
 
 
