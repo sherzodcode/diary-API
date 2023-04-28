@@ -6,7 +6,7 @@ date: 28.04.2023
 
 Time is 11:44 i'm in station.
 I started Data memes project and added default code. Now i have to figure out how to build database for it.
-
+It's 23:20, IN Sha Allah tomorrow , i'm gonna go to the dentist. And start Js learning deeply.
 //////////
 
 /////////
