@@ -5,6 +5,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 28.04.2023
 
 Time is 11:44 i'm in station.
+I started Data memes project and added default code. Now i have to figure out how to build database for it.
 
 //////////
 
