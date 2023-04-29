@@ -1,6 +1,15 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+/////////
+date: 29.04.2023
+
+Time is 11:33, i'm in station. Today i went to the dentist's office but couldn't find it. I went to the location that posted by dentist. 
+After chat with dentist he said that location was a little further.
+In Sha Allah , in 4 oclock i'm gonna ber there
+/////////
+
+
 //////////
 date: 28.04.2023
 
