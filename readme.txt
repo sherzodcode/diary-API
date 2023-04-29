@@ -8,6 +8,7 @@ Time is 11:33, i'm in station. Today i went to the dentist's office but couldn't
 After chat with dentist he said that location was a little further.
 In Sha Allah , in 4 oclock i'm gonna ber there.
 Alhamdulillah i cam back from dentist. My teeth are fine now.
+In Sha Allah , tommorrow we gonna put plombs to my tooth. 
 /////////
 
 
