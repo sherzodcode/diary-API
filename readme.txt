@@ -6,7 +6,8 @@ date: 29.04.2023
 
 Time is 11:33, i'm in station. Today i went to the dentist's office but couldn't find it. I went to the location that posted by dentist. 
 After chat with dentist he said that location was a little further.
-In Sha Allah , in 4 oclock i'm gonna ber there
+In Sha Allah , in 4 oclock i'm gonna ber there.
+Alhamdulillah i cam back from dentist. My teeth are fine now.
 /////////
 
 
