@@ -1,6 +1,15 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+
+/////////
+date: 30.04.2023
+
+Today is sunday, it means Today is rest day.
+Time is 20:12, i'm just chilling
+/////////
+
+
 /////////
 date: 29.04.2023
 
