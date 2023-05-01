@@ -8,6 +8,7 @@ date: 01.05.2023
 Time is 16:03 i'm  in my room. 
 Today o went to the dentist and make plomb teeth. Alhamdulillah everything is fine so far.
 Today is should start js deep learning.
+Alhamdulillah i satrted Client sectin of this project. IN Sha Allah it's gonna be not that hard.
 /////////
 
 
