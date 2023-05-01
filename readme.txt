@@ -3,6 +3,15 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 /////////
+date: 01.05.2023
+
+Time is 16:03 i'm  in my room. 
+Today o went to the dentist and make plomb teeth. Alhamdulillah everything is fine so far.
+Today is should start js deep learning.
+/////////
+
+
+/////////
 date: 30.04.2023
 
 Today is sunday, it means Today is rest day.
