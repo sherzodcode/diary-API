@@ -3,6 +3,13 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 /////////
+date: 02.05.2023
+
+Time is 9:12, i just fixed little bugh in Diary-client project, And changed this project's name. Now it's diary-API.
+/////////
+
+
+/////////
 date: 01.05.2023
 
 Time is 16:03 i'm  in my room. 
