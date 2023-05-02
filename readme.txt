@@ -6,7 +6,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 02.05.2023
 
 Time is 9:12, i just fixed little bugh in Diary-client project, And changed this project's name. Now it's diary-API.
-It's 11:53, i'm in station right now. Probably index design of Diary project is done. Now make routers remains.
+It's 11:53, i'm in station right now. Probably index design of Diary project is done. Now making  routers are remains.
 /////////
 
 
