@@ -7,6 +7,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 03.05.2023
 
 It's 11:26 , I;m in station right now.
+TIme is 12:28, i started user section of Data memes.
 /////////
 
 /////////
