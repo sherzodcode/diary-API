@@ -7,6 +7,7 @@ date: 05.05.2023
 Time is 11:48, i'm in station.
 I almost finished my portfolio.
 YEsterday i opened a telegram channel, and now this channel is my portfolio.
+I wanna make shot to gayratbek studio, but i'm waiting for maqsadbek studio.
 /////////
 
 
