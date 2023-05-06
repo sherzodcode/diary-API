@@ -1,6 +1,15 @@
 First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
+////////
+date: 06.05.2023
+
+Today in our house was repairing , we replace 4 windows, and one door.
+In these days i couldn't code , for some reasons. I need to find a job etc.
+But i need finish some of my started projects.
+////////
+
+
 /////////
 date: 05.05.2023
 
