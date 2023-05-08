@@ -6,6 +6,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 08.06.2023
 
 Time is 11:49, i'm in station.
+Default of diary client is ready. Now i need to fetch documents with Api.
 
 ////////
 date: 07.05.2023
