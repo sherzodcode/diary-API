@@ -7,6 +7,7 @@ date: 08.06.2023
 
 Time is 11:49, i'm in station.
 Default of diary client is ready. Now i need to fetch documents with Api.
+First i need to learn that. 
 
 ////////
 date: 07.05.2023
