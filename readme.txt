@@ -9,7 +9,7 @@ Time is 11:49, i'm in station.
 Default of diary client is ready. Now i need to fetch documents with Api.
 First i need to learn that. 
 Then i have to finish Lession monitoring sytem instagram design posts.
-And make another post on my telegram channel with mockup designs
+And make another post on my telegram channel with mockup designs.
 
 ////////
 date: 07.05.2023
