@@ -3,6 +3,14 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 ////////
+date: 09.05.2023
+
+9th may, today is a holiday as Winning day. 
+Time is 11:47 , i'm in station.
+////////
+
+
+////////
 date: 08.06.2023
 
 Time is 11:49, i'm in station.
