@@ -6,7 +6,8 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 09.05.2023
 
 9th may, today is a holiday as Winning day. 
-Time is 11:47 , i'm in station.
+Time is 11:47 , i'm in station. 
+Today i need to finish Diary client project.
 ////////
 
 
