@@ -7,6 +7,7 @@ date: 10.05.2023
 
 Time is 12:29, I'm in station right now.
 Today's goal is complete portfolio and finish HH account.
+I finished front of card. Now Back is remains.
 /////////
 
 ////////
