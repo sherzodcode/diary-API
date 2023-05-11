@@ -2,6 +2,16 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 
+
+//////////
+date: 11.05.2023
+
+Time is 12:52 . i'm in station.
+Today i finished Data card design and send it to telegram. 
+//////////
+
+
+
 /////////
 date: 10.05.2023
 
