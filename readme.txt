@@ -4,6 +4,12 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 //////////
+date: 12.05.2023
+
+Time is 15:30 , i'm in station.
+//////////
+
+//////////
 date: 11.05.2023
 
 Time is 12:52 . i'm in station.
