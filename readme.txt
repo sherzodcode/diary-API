@@ -7,6 +7,7 @@ date: 13.05.2023
 
 It's 22:23.
 Today i truly started my adobe ilustrator journey. 
+These days i couldn't code. But In Sha Allah i'm gonna fix that.
 
 //////////
 
