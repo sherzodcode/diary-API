@@ -2,6 +2,13 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 
+//////////
+date: 13.05.2023
+
+It's 22:23.
+Today i truly started my adobe ilustrator journey. 
+
+//////////
 
 //////////
 date: 12.05.2023
