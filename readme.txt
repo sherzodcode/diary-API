@@ -6,7 +6,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 15.05.2023
 
 Time is 12:13, i'm in station.
-Today i need to make card design mockup, with star wars theme
+Today i need to make card design mockup, with star wars theme.
 
 //////////
 
