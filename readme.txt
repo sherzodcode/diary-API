@@ -3,6 +3,13 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 //////////
+date: 16.05.2023
+
+It's 22:11. I'm in my room.
+Today i redisgn my logo. But i wanna make it more professional, So i need to learn a bit more.
+/////////
+
+//////////
 date: 15.05.2023
 
 Time is 12:13, i'm in station.
