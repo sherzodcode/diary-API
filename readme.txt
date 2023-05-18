@@ -3,6 +3,13 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 ///////////
+date: 18.05.2023
+
+Time is 12:38,  i'm in station
+///////////
+
+
+///////////
 date: 17.05.2023
 
 Time is 13:20, I'm in station.
