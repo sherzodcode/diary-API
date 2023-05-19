@@ -6,6 +6,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 19.2023
 
 Time is 13:14, i'm in station.
+Toda i ave to open behance.
 ///////////
 
 ///////////
