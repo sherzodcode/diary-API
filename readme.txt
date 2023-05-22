@@ -7,6 +7,8 @@ date: 22.05.2023
 
 Time is 12:11 i'm in station.
 I need to make my own brand.
+With 3 didifferent color styles.
+
 //////////
 
 //////////
