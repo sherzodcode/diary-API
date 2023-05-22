@@ -6,7 +6,7 @@ I should write about what i code, and how i did it, my toughts about that and wh
 date: 22.05.2023
 
 Time is 12:11 i'm in station.
-I need to make my own brand, Logo is already developing.
+I need to make my own brand, Logo is already developing. Merch materials is downloaded.
 With 3 didifferent color styles.
 
 //////////
