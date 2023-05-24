@@ -3,6 +3,14 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 //////////
+date: 24.05.2023
+
+Time is 23:17 , i'm in my room.
+Shirt design collection is on procces.
+//////////
+
+
+//////////
 date: 23.05.2023
 
 Time is 12:09, i'm in station.
