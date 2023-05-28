@@ -3,7 +3,12 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 
+//////////
+date: 28.05.2023
 
+Time is 18:22, i'm in my house.
+
+//////////
 
 //////////
 date: 27:05.2023
