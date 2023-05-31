@@ -2,6 +2,12 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 
+//////////
+date:  31.05.2021
+
+Time is 11:35, I'm in my room.
+//////////
+
 
 //////////
 date: 30.05.2021
