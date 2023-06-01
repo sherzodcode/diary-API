@@ -3,6 +3,12 @@ I should write about what i code, and how i did it, my toughts about that and wh
 
 
 //////////
+date:  01.06.2023
+
+Firt day of summer.
+//////////
+
+//////////
 date:  31.05.2021
 
 Time is 11:35, I'm in my room.
