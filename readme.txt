@@ -2,6 +2,13 @@ First day of using this diary.
 I should write about what i code, and how i did it, my toughts about that and what can i add for upgrade that code.
 
 
+
+/////////
+date:  02.06.2023
+
+TIme is 16:24, i'm in station.
+/////////
+
 //////////
 date:  01.06.2023
 
